@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Demo
+Version: 0.1
+Summary: A simple demonstration package
+Home-page: http://github.com/ontoligent/m09-demo
+Author: R.C. Alvarado
+Author-email: ontoligent@gmail.com
+License: MIT
+License-File: LICENSE
